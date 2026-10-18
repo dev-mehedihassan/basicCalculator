@@ -59,13 +59,23 @@ button:hover {
 }
 
 .clear {
-    width: 48%;
+    width: 22%;
     background: #ff6b6b;
     color: white;
 }
 
 .clear:hover {
     background: #ee5253;
+}
+
+.del {
+    width: 22%;
+    background: #feca57;
+    color: #1d1d1d;
+}
+
+.del:hover {
+    background: #f5b700;
 }
 
 .equals {
